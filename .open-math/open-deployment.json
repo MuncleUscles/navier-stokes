@@ -1,0 +1,21 @@
+{
+  "protocolVersion": 5,
+  "problem": "navier-stokes",
+  "repository": "MuncleUscles/navier-stokes",
+  "branch": "research",
+  "chainId": 61999,
+  "origin": "https://muncleuscles.github.io",
+  "verifier": "0x64c02F70D6A5728C2C209b21385Cc0ce00200DDb",
+  "executor": "0x83136DC50Beb27C154F1d90a834eDEdDe13a6eC7",
+  "windowSeconds": 300,
+  "minimumGitHubAccountAgeDays": 30,
+  "appId": 15368,
+  "verifierAppId": 15368,
+  "policyHash": "add501f2ba388f1cc914896191ac2e4f38da21122a7c5e8b36a099fad599b92e",
+  "contract": "0x89F8d9392bE1cF61cf9B169f43321d41b22e543C",
+  "codeHash": "8b4143a0e66981c681894ad6c13883f4512d36165de66f18da27e762a3b4a9dd",
+  "protocolCommit": "e72ff4a2b51e8cfa809865555116dfc3855e1e2e",
+  "deploymentTx": "0x7dd6b2e18a4c4b2ff2562c87063d712dceff0d8b9c5d573fc9942e00838ce62a",
+  "deployedAt": "2026-11-26T08:08:42.376746+00:00",
+  "legacyLedgers": []
+}
